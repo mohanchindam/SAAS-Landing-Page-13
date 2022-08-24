@@ -4,7 +4,7 @@
 - Used position, margin, flex, and other properties at the proper places to design the web page.
 - Improved the intuitive understanding of the usage of elements.
 - It took nearly three and half hours to complete this project.
-
+- Website is mobile responsive.
 - Below image shows the preview of the project:
 
 ![Project-13 Preview](./Project-13.png)
